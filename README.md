@@ -36,5 +36,4 @@ on high-revenue regions like NY-NJ.
 ## Tech Stack
 Python, Pandas, NumPy, Matplotlib, Plotly, SciPy
 
-## View Notebook
-For interactive visualizations, view the notebook on [nbviewer](https://nbviewer.org/github/UghurKhalilov/megaline-surf-vs-ultimate/blob/main/Megaline_Telecom_Revenue_Analysis.ipynb)
+
