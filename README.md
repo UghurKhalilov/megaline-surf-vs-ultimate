@@ -38,4 +38,4 @@ Python, Pandas, NumPy, Matplotlib, Plotly, SciPy
 
 ## View Notebook
 For interactive visualizations, view the notebook on 
-[nbviewer](https://nbviewer.org/github/UghurKhalilov/megaline-surf-vs-ultimate/blob/main/notebook.ipynb)
+[nbviewer](https://nbviewer.org/github/UghurKhalilov/megaline-surf-vs-ultimate/blob/main/megaline.ipynb)
