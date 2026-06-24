@@ -33,7 +33,6 @@ The Ultimate plan is more profitable per user. Advertising budget
 should prioritize promoting the Ultimate plan, with special focus 
 on high-revenue regions like NY-NJ.
 
-## Tech Stack
-Python, Pandas, NumPy, Matplotlib, Plotly, SciPy
-
-
+## View Notebook
+For interactive visualizations, view the notebook on 
+[nbviewer](https://nbviewer.org/github/UghurKhalilov/megaline-surf-vs-ultimate/blob/main/Megaline_Telecom_Revenue_Analysis.ipynb)
